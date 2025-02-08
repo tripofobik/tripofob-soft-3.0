@@ -20,7 +20,7 @@ TRIPOFOB Soft 3.0 - это усовершенствованное програм
 
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/tripofobik/tripofob-soft-2.0.git
+   git clone https://github.com/tripofobik/tripofob-soft-3.0.git
    ```
 
 2. Перейдите в директорию проекта:
