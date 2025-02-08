@@ -1,6 +1,6 @@
 # TRIPOFOB Soft 3.0
 
-![TRIPOFOB Soft](https://i.imgur.com/xxqRdPp.png)
+<img src="https://i.imgur.com/xxqRdPp.png" alt="TRIPOFOB Soft" width="300"/>
 
 ## Описание
 TRIPOFOB Soft 3.0 - это усовершенствованное программное обеспечение для поиска данных с поддержкой регулярных выражений и расширенными возможностями поиска.
